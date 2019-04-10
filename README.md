@@ -32,4 +32,12 @@ The project will utilize 'Random Forest Classifier' and 'Haralick Textures' comp
 
 # Outputs: 
 
-! [alt text](https://raw.github.com/nitisha-strikeagle/object_recognition_texture_features/output/bricks_output.jpg)
+![bricks_output](output/bricks_output.jpg)
+
+![grass_output](output/grass_output.jpg)
+
+![pebbles_output](output/pebbles_output.jpg)
+
+![sand_output](output/sand_output.jpg)
+
+![water_output](output/water_output.jpg)
