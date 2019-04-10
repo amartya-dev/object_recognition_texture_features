@@ -32,6 +32,8 @@ The project will utilize 'Random Forest Classifier' and 'Haralick Textures' comp
 
 # Outputs: 
 
+![bricks_output](output/bricks_output.jpg)
+
 ![grass_output](output/grass_output.jpg)
 
 ![pebbles_output](output/pebbles_output.jpg)
