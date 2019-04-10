@@ -29,3 +29,6 @@ The project will utilize 'Random Forest Classifier' and 'Haralick Textures' comp
 
 1. Inside "Test images" folder, put random images of the same object which is to be recognized.
 2. Run Texture_classification.py
+
+# Outputs: 
+
